@@ -1,6 +1,6 @@
 # Google-kickstart
 
-Résolution des problèmes d'algorithmie du concours Google Kickstart
+Solving the algorithmic problems of the Google Kickstart contest
 
-_Lien : https://codingcompetitions.withgoogle.com/kickstart/schedule_
+_Link : https://codingcompetitions.withgoogle.com/kickstart/schedule_
 
